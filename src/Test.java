@@ -3,7 +3,7 @@ public class Test {
 	
 	public static void main(String args[]) {
 		
-		String hungry = "No";
+		String hungry = "yes";
 		
 		if (hungry=="yes") {
 			System.out.println("Eat something");
